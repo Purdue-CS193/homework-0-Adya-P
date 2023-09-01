@@ -24,6 +24,11 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+Every Programmer:
+> "This code works. I don't know why. But I don't care how it happened."
+
+I really like 'for loops' though.
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
