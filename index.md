@@ -1,4 +1,4 @@
-### Adya Pattanaik's First CS193 Homework :D
+# Adya Pattanaik's First CS193 Homework :D
 
 ## My Favorite things about CS193~
 - The TAs (they seem very cool and nice ;D)
