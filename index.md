@@ -1,3 +1,10 @@
+### Adya Pattanaik's First CS193 Homework :D
+
+## My Favorite things about CS193~
+- The TAs (they seem very cool and nice ;D)
+- The random desks in the class that have two pullout desks so that you can have a full desk (it does feel like you're in a baby stool though :/)
+- Learning stuff I need for other CS classes (very cool of ya'll)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
