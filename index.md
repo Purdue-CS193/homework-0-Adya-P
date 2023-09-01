@@ -25,12 +25,12 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-Every Programmer:
-> "This code works. I don't know why. But I don't care how it happened."
 
-I really like 'for loops' though.
+I really like `for loops` though.
 ```
 
+Every Programmer:
+> "This code works. I don't know why. But I don't care how it happened."
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
